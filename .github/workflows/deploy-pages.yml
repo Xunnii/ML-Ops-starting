@@ -2,7 +2,7 @@ name: Deploy frontend ke GitHub Pages
 
 on:
   push:
-    branches: [main]
+    branches: [versi-2]
   workflow_dispatch:
 
 permissions:
