@@ -1,0 +1,34 @@
+{
+  "merchant": "Salford & Co.",
+  "date": "28 Maret 2022",
+  "items": [
+    {
+      "name": "KAOS",
+      "quantity": 1,
+      "price": 100000
+    },
+    {
+      "name": "JAKET",
+      "quantity": 1,
+      "price": 200000
+    },
+    {
+      "name": "KAOS POLO",
+      "quantity": 1,
+      "price": 120000
+    },
+    {
+      "name": "SEPATU",
+      "quantity": 1,
+      "price": 230000
+    },
+    {
+      "name": "SEPATU",
+      "quantity": 1,
+      "price": 100000
+    }
+  ],
+  "subtotal": 800000,
+  "tax": 80000,
+  "total": 880000
+}
